@@ -21,7 +21,7 @@
     ]
   },
   "node_modules/.pnpm/vinext@1.0.0-beta.3_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_680ed2bd7d9573b4f606a6c88a9676d1/node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "zombi-stalker/pr-preview/pr-1/_next/static/chunks/layout-segment-context-CluIV8d0.js",
+    "file": "zombi-stalker/pr-preview/pr-1/_next/static/chunks/layout-segment-context-D_K6nDjx.js",
     "name": "layout-segment-context",
     "src": "node_modules/.pnpm/vinext@1.0.0-beta.3_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_680ed2bd7d9573b4f606a6c88a9676d1/node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -32,7 +32,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "zombi-stalker/pr-preview/pr-1/_next/static/chunks/index-BM6zqQs_.js",
+    "file": "zombi-stalker/pr-preview/pr-1/_next/static/chunks/index-3K3UWkVU.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
