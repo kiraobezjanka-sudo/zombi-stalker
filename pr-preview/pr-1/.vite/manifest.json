@@ -1,0 +1,49 @@
+{
+  "_framework-sKhJ5N1C.js": {
+    "file": "zombi-stalker/pr-preview/pr-1/_next/static/chunks/framework-sKhJ5N1C.js",
+    "name": "framework",
+    "imports": [
+      "_rolldown-runtime-CAXmw7c3.js"
+    ]
+  },
+  "_rolldown-runtime-CAXmw7c3.js": {
+    "file": "zombi-stalker/pr-preview/pr-1/_next/static/chunks/rolldown-runtime-CAXmw7c3.js",
+    "name": "rolldown-runtime"
+  },
+  "app/page.tsx": {
+    "file": "zombi-stalker/pr-preview/pr-1/_next/static/chunks/page-DSVELxfr.js",
+    "name": "page",
+    "src": "app/page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-CAXmw7c3.js",
+      "_framework-sKhJ5N1C.js"
+    ]
+  },
+  "node_modules/.pnpm/vinext@1.0.0-beta.3_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_680ed2bd7d9573b4f606a6c88a9676d1/node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "zombi-stalker/pr-preview/pr-1/_next/static/chunks/layout-segment-context-CluIV8d0.js",
+    "name": "layout-segment-context",
+    "src": "node_modules/.pnpm/vinext@1.0.0-beta.3_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_680ed2bd7d9573b4f606a6c88a9676d1/node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-CAXmw7c3.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-sKhJ5N1C.js"
+    ]
+  },
+  "virtual:vinext-app-browser-entry": {
+    "file": "zombi-stalker/pr-preview/pr-1/_next/static/chunks/index-BM6zqQs_.js",
+    "name": "index",
+    "src": "virtual:vinext-app-browser-entry",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-CAXmw7c3.js",
+      "_framework-sKhJ5N1C.js"
+    ],
+    "dynamicImports": [
+      "virtual:vinext-app-browser-entry",
+      "app/page.tsx",
+      "node_modules/.pnpm/vinext@1.0.0-beta.3_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_680ed2bd7d9573b4f606a6c88a9676d1/node_modules/vinext/dist/shims/layout-segment-context.js"
+    ]
+  }
+}
