@@ -34,6 +34,11 @@ jobs:
         env:
           GITHUB_PAGES_BASE_PATH: /zombi-stalker
 
+      - name: Normalize static asset paths
+        run: cp -R "dist/client${GITHUB_PAGES_BASE_PATH}/_next" dist/client/_next
+        env:
+          GITHUB_PAGES_BASE_PATH: /zombi-stalker
+
       - name: Disable Jekyll processing
         run: touch dist/client/.nojekyll
 
