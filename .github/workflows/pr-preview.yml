@@ -40,7 +40,7 @@ jobs:
 
       - name: Install dependencies
         if: github.event.action != 'closed'
-        run: pnpm install --frozen-lockfile
+        run: pnpm install --frozen-lockfile --ignore-scripts
 
       - name: Build static preview
         if: github.event.action != 'closed'
